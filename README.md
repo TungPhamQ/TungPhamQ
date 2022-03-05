@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and making product
 - 🌱 I’m currently learning on freecodecamp from scratch
       > Please feel free to correct me
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web developement
 - 📫 How to reach me 
         >gmail: tungpham2109@gmail.com
 
