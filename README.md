@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TungPhamQ
 - 👀 I’m interested in coding and making product
 - 🌱 I’m currently learning on freecodecamp from scratch
-      > Please feel free to correct me
+      > Please feel free to connect me
 - 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me 
-        >gmail: tungpham2109@gmail.com
+- 📫 Reach me 
+        >e-mail: tungpham2109@duck.com
 
 <!---
 TungPhamQ/TungPhamQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
