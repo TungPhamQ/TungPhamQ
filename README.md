@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TungPhamQ
 - 👀 I’m interested in coding and making product
-- 🌱 I’m currently learning on freecodecamp from scratch
-      > Please feel free to connect me
+   
+  Feel free to connect me
 - 💞️ I’m looking to collaborate on web developement
 - 📫 Reach me 
         >e-mail: tungpham2109@duck.com
