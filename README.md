@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TungPhamQ
-- 👀 I’m interested in coding and making product
    
   Feel free to connect me
 - 📫 Reach me 
