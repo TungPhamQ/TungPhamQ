@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/cigvGCTlwhCtSi6QXf-Pb9LUsOYXRWyV4gK0w2OoG6s/rs:fit:1200:675:1/g:ce/aHR0cDovL3d3dy5k/aWdpd2ViYXJ0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMi9XZWItRGV2/ZWxvcG1lbnQtQ29t/cGFueS1KYWlwdXIu/anBn)
+![MasterHead](https://imgs.search.brave.com/cigvGCTlwhCtSi6QXf-Pb9LUsOYXRWyV4gK0w2OoG6s/rs:fit:1200:675:1/g:ce/aHR0cDovL3d3dy5k/aWdpd2ViYXJ0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMi9XZWItRGV2/ZWxvcG1lbnQtQ29t/cGFueS1KYWlwdXIu/anBn)
 <h1 align="center">Hi 👋, I'm Tung Pham</h1>
 <h3 align="center">A passionate Frontend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/xEBeyxmHBdxNtHy11bgBfRjCqzpzmEqfMSueswLfBL4/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEzNjAvMCpn/cU8zc2xMbUdiNG1V/ZWplLmdpZg.gif">
@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **HTML, CSS(SCSS), VueJS project**
 
 - 📫 How to reach me **tungpham2109@duck.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
