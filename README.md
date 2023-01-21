@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/xEBeyxmHBdxNtHy11bgBfRjCqzpzmEqfMSueswLfBL4/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEzNjAvMCpn/cU8zc2xMbUdiNG1V/ZWplLmdpZg.gif">
 
 - 🔭 I’m currently working on **HTML, CSS(SCSS), VueJS project**
-- 🔭 I’m currently working on **HTML, CSS(SCSS), VueJS project**
-- 🔭 I’m currently working on **HTML, CSS(SCSS), VueJS project**
+- 🔭 I’m currently learning on **NodeJS, ExpressJS and some Backend stuff**
+- 🔭 I love **Coding**
 
 - 📫 How to reach me **tungpham2109@duck.com**
 <p align="left">
