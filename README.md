@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tung Pham</h1>
 <h3 align="center">A passionate Frontend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/xEBeyxmHBdxNtHy11bgBfRjCqzpzmEqfMSueswLfBL4/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEzNjAvMCpn/cU8zc2xMbUdiNG1V/ZWplLmdpZg.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tungphamq" alt="tungphamq" /></a> </p>
 
 - 🔭 I’m currently working on **HTML, CSS(SCSS), VueJS project**
 
